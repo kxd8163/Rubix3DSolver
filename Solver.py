@@ -6,7 +6,7 @@ __version__ = '0.0.1'
 
 # This file contains rubica cube solver logic based on simple heuristics[A*] - graph traversing
 
-from Rubica import Cube
+from Rubix import Cube
 
 open_list = []
 close_list = []

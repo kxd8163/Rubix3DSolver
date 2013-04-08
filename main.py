@@ -9,7 +9,7 @@ import pdb
 
 # This file is just script for development and testing purposes for Rubica.Cube class
 
-import Rubica
+import Rubix
 import ViewCube
 from Solver import solve_cube
 
